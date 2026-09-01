@@ -116,21 +116,21 @@ public class Solution {
 OUTPUT:
 Input:
 12
-ENTER Amaravani 3.75 50
-ENTER amar 3.8 24
-ENTER Vani 3.7 35
+ENTER Amar 3.75 50
+ENTER am 3.8 24
+ENTER AR 3.7 35
 SERVED
 SERVED
-ENTER Amaravani 3.85 36
+ENTER Amar 3.85 36
 SERVED
-ENTER amar 3.9 42
-ENTER Vani 3.6 46
-ENTER Amaravani 3.95 49
-ENTER Vani 3.95 50
+ENTER am 3.9 42
+ENTER AR 3.6 46
+ENTER Am 3.95 49
+ENTER ar 3.95 50
 SERVED
 
 output:
-Amaravani
-amar
-Vani
-Vani
+Amar
+am
+ar
+ar
